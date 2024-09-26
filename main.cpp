@@ -112,4 +112,4 @@ int main()
 	red->get_hex(hConsole);
 	delete red;
 	return 0;
-}
+} 
